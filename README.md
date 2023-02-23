@@ -11,30 +11,12 @@ We are going to create API for the model based on FastAPI then create a Docker i
 
 ## Datasets
 Dataset includes 100 images for each classes. So, totally we have 300 images.
-![]()
-## Practical Applications
 
-## Milestones
-
-## References
+<img src="Abner.jpg" height=150 width=150 align="left">
+<img src="bed.jpg" height=150 width=150>
+<img src="sofa.jpg" height=150 width=150>
 
 
+## Tools
+Python, Tensorflow, Keras, FastAPI, Docker, CI/CD
 
-# Overview
-
-## Background and Motivation
-This is a background.
-<img src="face.jpg" height=20 width=20 align="left">
-## Goals
-
-## Datasets
-
-## Practical Applications
-```python
-import numpy
-x = x+1 
-```
-
-## Milestones
-
-## References
